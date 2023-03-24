@@ -1,5 +1,7 @@
 # The-Binding-of-Sad-Pink-Guy
-Binding of Isaac knockoff for computer science project done in a group of 3
+**High School Computer Science Project**
+
+Binding of Isaac knockoff completed in a group of 3
 ___
 In this game, the player's(or user's) objective is to escape this maze-oriented map.
 
